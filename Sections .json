@@ -1,0 +1,42 @@
+{
+  "dataVersion": "2026-10-03",
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Preliminary",
+      "titleHi": "प्रारंभिक",
+      "sections": [
+        {
+          "id": "1",
+          "title": "Short title, extent and commencement",
+          "titleHi": "संक्षिप्त नाम, विस्तार और प्रारंभ",
+          "text": "[Paste official text of Section 1 here]",
+          "textHi": null,
+          "lastAmended": null,
+          "effectiveFrom": "1 April 2026",
+          "sourceRef": "[PDF page / notification no.]"
+        },
+        {
+          "id": "2",
+          "title": "Definitions",
+          "titleHi": "परिभाषाएँ",
+          "text": "[Paste official text of Section 2 here]",
+          "lastAmended": "[e.g. Finance Act 2026, if amended]",
+          "effectiveFrom": "1 April 2026",
+          "sourceRef": "[PDF page / notification no.]"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Sample Chapter",
+      "sections": [
+        {
+          "id": "3",
+          "title": "Sample section title",
+          "text": "[Paste official text of Section 3 here]"
+        }
+      ]
+    }
+  ]
+}
